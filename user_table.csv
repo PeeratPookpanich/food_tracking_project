@@ -1,0 +1,5 @@
+﻿username,user_id,firstname,lastname,birthday,Gender,weight_kg,height_cm
+Pete,u000001,พีรัตถ์,ผูกพานิช,29/8/1992,Male,70,173
+Far,u000002,วนิดา ,ถาวรสุข,25/6/1995,Female,50,156
+Ween,u000003,ศศิธร,ศิรินทราวุฒิวงศ์,15/9/2003,Female,47.5,160
+Ploy,u000004,อัญมณี,พรพันธุ์วัฒนา,28/11/1991,Female,48.25,164
